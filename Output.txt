@@ -1,0 +1,12 @@
+1.OUTPUT OF PROGRAM WITH SAMPLE DATA:
+The output would display the product of two positive decimal numbers.
+Example:
+INPUT:
+117 131
+OUTPUT:
+Result of multiplication is:15327
+	
+
+2.TOTAL NUMBER OF BASIC OPERATIONS i.e., COMPUTATION OF TIME COMPLEXITY:
+a)The basic operations are comparision,multiplication and addition.
+b)The time complexity of the problem is O(n**1.59).
